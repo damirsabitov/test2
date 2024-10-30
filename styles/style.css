@@ -365,9 +365,15 @@ input[type="submit"]:hover {
     .footer__wrapper {
         flex-wrap: wrap;
     }
+
+    .info__title {
+        font-size: 32px;
+    }
+
+    .info__para {
+        font-size: 12px;
+    }
 }
-
-
 
 @media only screen and (min-width: 578px) {
     .nav__topic {
